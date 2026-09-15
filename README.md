@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![image alt](https://github.com/JuanCortzDev/JuanCortzDev/blob/3a952593b8a0f723e7cfc3ac29f0801adb37c761/banner%20programador.jpeg)
 <!--
 **JuanCortzDev/JuanCortzDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
